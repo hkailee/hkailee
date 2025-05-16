@@ -9,10 +9,10 @@
 **Theory:** Applied Statistics, Quantitative Analysis, Data Science, Machine Learning, Deep Learning, Natural Language 
 Processing, Time-series, Bayesian Optimization
 
-**Programming:** Python (Matplotlib, Seaborn, NetwokX, Plotly, Pandas, Anndata, pySpark, Numpy, NLTK, Scikit-learn, 
+    **Programming:** Python (Matplotlib, Seaborn, NetwokX, Plotly, Pandas, Anndata, pySpark, Numpy, NLTK, Scikit-learn, 
 PyTorch, Keras/TensorFlow, Lifelines, Statmodels, etc.), R (ggplot, ggpubr), Git, Linux Command, React.js 
 
-**Operating Systems, Databases, Software & Tools:** REHL/CentOS/Fedora, Ubuntu, Macintosh, Windows, MongoDB/Postgres/Mysql, Hadoop, PySpark, 
+    **Operating Systems, Databases, Software & Tools:** REHL/CentOS/Fedora, Ubuntu, Macintosh, Windows, MongoDB/Postgres/Mysql, Hadoop, PySpark, 
 docker for CI, VS code, SPSS, Alteryx, Fastapi, anaconda/pyenv/pipenv/poetry, fastapi, MLflow/Weights & Biases/Comet 
 (MLOps), Azure Kubernetes Services, Github Actions, Azure DevOps Pipeline 
 
