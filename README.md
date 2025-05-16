@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkailee" alt="hkailee" /></a> </p>
 
-- 💬 Ask me about:
+- 💬 Ask me about:    
 **Theory:** Applied Statistics, Quantitative Analysis, Data Science, Machine Learning, Deep Learning, Natural Language 
 Processing, Time-series, Bayesian Optimization
 
